@@ -1,8 +1,12 @@
 # IVR-PHISHING-FRAMEWORK
 
+#IVR Phishing framework allows to obtain numeric credentials using automated interative voice response.
+#This framework is developed to obtain creds even from info sec experts who have undergone cyber security training.
+#No one has developed a phishing framework through IVR. 
+#So twintech thought why not us ?
+#It is intended to be used for red teaming professionals. 
 Uses twilio and python 
 
-Still under construction
 
 Future Improvements
 
