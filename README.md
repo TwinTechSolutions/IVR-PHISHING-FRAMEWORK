@@ -5,6 +5,8 @@ This framework is developed to obtain creds even from info sec experts who have 
 No one has developed a phishing framework through IVR. 
 So twintech thought why not us ?
 It is intended to be used for red teaming professionals. 
+
+Requirements:
 Uses twilio and python 
 
 
