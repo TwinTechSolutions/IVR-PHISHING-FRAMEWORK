@@ -17,6 +17,6 @@ add options to change messages
 set options to change the call flow and much more
 
 
-CREDITS
-#PRAVEEN THIYAGARAYAM
+Credits:
+Praveen T
 
