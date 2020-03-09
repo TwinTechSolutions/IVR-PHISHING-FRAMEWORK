@@ -5,7 +5,7 @@ This framework is developed to obtain creds even from info sec experts who have 
 No one has developed a phishing framework through IVR except using pbx. 
 Since many online services such as twilio,servetel,exotel..etc have come up with solutions where the need for hardware is totally reduced.
 So twintech thought why not us ?
-It is intended to be used for red teaming professionals. 
+This tool is intended to be used for red teaming professionals. 
 
 WANT TO PENTEST YOUR ORGANISATION IVR AND SET UP AN CUSTOM CAMPAIGN FOR IVR PHISHING
 VISIT HTTPS://TWINTECHSOLUTIONS.IN
