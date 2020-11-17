@@ -8,7 +8,7 @@ So twintech thought why not us ?
 This tool is intended to be used for red teaming professionals. 
 
 WANT TO PENTEST YOUR ORGANISATION IVR AND SET UP AN CUSTOM CAMPAIGN FOR IVR PHISHING
-VISIT HTTPS://TWINTECHSOLUTIONS.IN
+VISIT HTTPS://TWINTECHSOLUTION.COM
 
 Requirements:
 Uses twilio and python 
